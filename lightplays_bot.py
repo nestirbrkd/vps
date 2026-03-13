@@ -2650,7 +2650,8 @@ if __name__ == "__main__":
         os.makedirs("temp_dockerfiles", exist_ok=True)
         os.makedirs("migrations", exist_ok=True)
         
-        bot.run("MTQ0NTExNzEzNjQ2ODA1MDAyNA.G3lS1v.hHOUPVU5fxYAD7fc2sCUo0g_1hhdveGqIjR3X4")
+        bot.run("MTQ0NTExNzEzNjQ2ODA1MDAyNA.GMrkwD.XL4J2LZPA0iLNr13c5J3o2KzkVwfB0KCpzj0gg")
     except Exception as e:
         logger.error(f"Bot crashed: {e}")
         traceback.print_exc()
+
